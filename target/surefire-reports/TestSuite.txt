@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 52.081 s <<< FAILURE! - in TestSuite
+com.hrishi.bb.test.HomePage_BeforeLoginTest.TC_home_02  Time elapsed: 5.486 s  <<< FAILURE!
+java.lang.AssertionError: expected [Login - 9My Store] but found [Login - My Store]
+	at com.hrishi.bb.test.HomePage_BeforeLoginTest.TC_home_02(HomePage_BeforeLoginTest.java:45)
+
